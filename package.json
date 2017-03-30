@@ -1,0 +1,9 @@
+{
+  "name": "sklib",
+  "version": "1.0.0",
+  "description": "Tiny JS library to store some useful-to-me methods and classes, as well as to get my submodule toes wet.",
+  "main": "index.js",
+  "repository": "https://github.com/storskegg/sklib.git",
+  "author": "Liam Conrad",
+  "license": "MIT"
+}
